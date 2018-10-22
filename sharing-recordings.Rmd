@@ -1,5 +1,5 @@
 ---
-title: "gdpr-provisions-relevant-to-video-sharing"
+title: "GDPR provisions relevant to sharing recordings"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
 output: html_document
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Purpose
 
 This document contains annotations of the GDPR regulation that seem directly relevant to the activities of scientific data repositories whose mission is to store and share data about human participants to advance educational, scientific, health-related, and charitable purposes.
-The comments reflect the viewpoint that images, video, and audio recordings have high value in advancing these purposes, but also pose specific risks to data subjects that repositories must address and mitigate.
+The comments reflect the viewpoint that images, video, and audio recordings have high value in advancing these purposes, but also pose specific risks to data subjects that scientific data repositories must address and mitigate.
 
 ## Regulation text
 
