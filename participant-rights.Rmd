@@ -82,9 +82,11 @@ If you agree to share photographs, video, or audio recordings with {NAME OF REPO
 First and/or last names of you or other people may be spoken aloud. 
 If the study takes place in your home, aspects of your home may be seen or heard, or things you said may be recorded. 
 In addition, other information may have been collected about you, your child, or your family in conjunction with this session and shared in {NAME OF REPOSITORY} along with any photographs, video, or audio recordings.
+
 Thus, it is possible that someone with access to {NAME OF REPOSITORY} might be able to identify you, your child, or other people in the recordings.
-But every person who is approved to have access to {NAME OF REPOSITORY} must promised not to reveal the identities of any person they observe in a recording.
-Every person also promises not to contact any person they recognize or to otherwise reveal information that could embarrass or harm that person. 
+But every person who is approved to have access to {NAME OF REPOSITORY} must promise not to reveal the identities of any person they observe in a recording.
+Every person with access to personal data also must promise not to contact any person they recognize or to otherwise reveal information that could embarrass or harm that person.
+No person with access to personal data in {NAME OF REPOSITORY} is allowed to 'profile' an individual person.
 Also, every person who is approved to have access to {NAME OF REPOSITORY} must promise not to share images or recordings of any person with anyone outside of {NAME OF REPOSITORY} unless they have explicit permission to do so.
 
 ## Benefits of sharing data 
