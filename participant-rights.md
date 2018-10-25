@@ -1,24 +1,31 @@
 Research Participants' Rights
 ================
 Rick Gilmore
-2018-10-22 16:21:06
+2018-10-25 11:56:06
 
 Preamble
 --------
 
 As a research participant, you have a fundamental right to control your personal data and how it is processed. The processing or analysis of your personal data can and should serve the interests of humankind.
 
-This statement of research participant rights is meant to provide information to you about how sharing your personal data with other researchers via electronic data libraries can be done in a way that protects your rights, your confidentiality, and your privacy, while serving the greater good. You may choose to share your data or not to share. We ask your permission to share your data because we think that this will lead to faster progress in research on human development, health, and behavior.
+This statement of research participant rights is meant to provide information to you about how sharing your personal data with other researchers via electronic data libraries like {NAME OF REPOSITORY} can be done in a way that protects your rights (and your child's), your confidentiality (and your child's), and your privacy (and your child's), while serving the greater good. You may choose to share your data (or your child's) or not to share. We ask your permission to share your data (and your child's) because we think that this will lead to faster progress in research on human development, behavior, education, and health.
 
 What we ask of you
 ------------------
 
 We ask your permission to store and share personal data about you (and your child) in a secure, web-based data library called {NAME OF REPOSITORY}, hosted at {HOSTING INSTITUTION} in {COUNTRY}. We ask your permission to store and share these personal data for an indefinite period in a secure location so that future authorized users of {NAME OF REPOSITORY} can access the data.
 
-Permission to show segments to the public
------------------------------------------
+Permission to show segments
+---------------------------
 
-If you agree to share your personal data, we may also request separate permission to allow authorized users of {NAME OF REPOSITORY} to show selected images or segments in scientific or classroom presentations for informational and educational purposes. Some scientific or classroom presentations may be recorded, and these recordings may then be made available to the public via the internet (e.g., YouTube). Giving permission for segments to be shown does not give permission for the recordings themselves to be distributed to the public.
+If you agree to share your personal data, we may also request separate permission to allow authorized users of {NAME OF REPOSITORY} to show selected images or segments in scientific or classroom presentations for informational and educational purposes. Some scientific or classroom presentations may be recorded, and these recordings may then be made available to the public via the internet (e.g., YouTube). Giving permission for showing segments not give permission for the original recordings or segments to be distributed to the public.
+
+Permission to permit commercial uses
+------------------------------------
+
+We may ask separate permission for your personal data to be made available to for-profit, commercial entities. {NAME OF REPOSITORY} may ask commercial entities to pay a fee to access personal data in order to fund ongoing educational, scientific, health-related, and charitable activities at {NAME OF REPOSITORY}. All commercial access to personal data on {NAME OF REPOSITORY} is subject to review and approval by {NAME OF REPOSITORY}.
+
+Commercial use of personal data is subject to more restrictions than uses by academic, not-for-profit, research, government, and health-related institutions. If {NAME OF REPOSITORY} grants access to a commercial entity, it is only for purposes approved by {NAME OF REPOSITORY}. Commercial access to any images, video, and audio recordings or other personal data will be restricted to the development, training, and testing of computer software. Commercial access to personal data is limited in time; at the end of the approval period, all personal data acquired from {NAME OF REPOSITORY} and processed by a commercial entity must be destroyed. No images or recordings of you (or your child) will be redistributed or made public for any purpose. No commercial entity with access to your personal data may identify you (or your child), contact you (or your child), or link your shared personal data with other data in order to profile or track you (or your child).
 
 What personal data will be stored and shared?
 ---------------------------------------------
@@ -40,7 +47,9 @@ Who will have access to your personal data?
 What if I say no?
 -----------------
 
-You do not have to give permission to share your information with {NAME OF REPOSITORY}. You may give permission to share your data with {NAME OF REPOSITORY} but refuse permission to allow images or segments to be shown in scientific or classroom presentations. None of your choices will affect receipt of payment if offered for participation in this or future studies.
+You do not have to give permission to share your information with {NAME OF REPOSITORY}. You may give permission to share your data with {NAME OF REPOSITORY} but refuse permission to allow images or segments to be shown in scientific or classroom presentations. You may choose *not* to allow your personal data to be shared with commercial entities through {NAME OF REPOSITORY}, but permit your personal data to be shared with non-commercial entities.
+
+None of your choices will affect receipt of payment if offered for participation in this or future studies.
 
 What if I change my mind?
 -------------------------
@@ -66,4 +75,13 @@ Thus, it is possible that someone with access to {NAME OF REPOSITORY} might be a
 Benefits of sharing data
 ------------------------
 
-Data repositories like {NAME OF REPOSITORY} allow researchers to share data with one another for educational, scientific, health-related, and charitable purposes. Data sharing accelerates progress in research, and it makes findings from scientific studies more robust and reliable. This benefits the public as a whole. Data sharing also increases the benefits of participating in research to you and to others.
+Data repositories like {NAME OF REPOSITORY} allow researchers (and health professionals) to share data with one another for educational, scientific, health-related, and charitable purposes. Data sharing accelerates progress in research, and it makes findings from scientific studies more robust and reliable. This benefits the public as a whole. Data sharing also increases the benefits of participating in research to you and to others.
+
+Signatures/Approvals
+====================
+
+I give permission for my personal data (and my child's) to be shared via {NAME OF REPOSITORY} and used for educational, scientific, health-related, and charitable purposes.
+
+I give permission for selected images, photographs, or segments of audio or video recordings of me (or my child) to be shown in scientific or classroom presentations for informational and educational purposes.
+
+I give permission for {NAME OF REPOSITORY} to accept and review proposals from commercial entities for access to my personal data (and my child's) and to grant time-limited access for commercial purposes related to the development and testing of computer software.
