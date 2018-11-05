@@ -62,7 +62,7 @@ We may ask separate permission for your personal data that is stored on {NAME OF
 All commercial access to personal data on {NAME OF REPOSITORY} is subject to review and approval by {NAME OF REPOSITORY}.
 
 Commercial use of personal data is subject to more restrictions than uses by academic, not-for-profit, research, government, and health-related institutions.
-If {NAME OF REPOSITORY} grants access to a commercial entity, it is only for purposes approved by {NAME OF REPOSITORY}.
+If {NAME OF REPOSITORY} grants access to a commercial entity, it is only for specific purposes that are approved in advance by {NAME OF REPOSITORY}.
 Commercial access to any images, video, and audio recordings or other personal data will be restricted to the development, training, and testing of computer software.
 Commercial access to personal data is limited in time; at the end of the approval period, all personal data acquired from {NAME OF REPOSITORY} and processed by a commercial entity must be destroyed.
 No images or recordings of you (or your child) will be redistributed to people outside of {NAME OF REPOSITORY} or be made public for any purpose.
@@ -99,7 +99,7 @@ If you are a citizen of the European Union (EU), please note that storing data i
 
 ## Risks of sharing personal data
 
-If you agree to share personal data, especially photographs, video, or audio recordings with {NAME OF REPOSITORY}, images and/or sounds of you (your child) or other people in the recordings may be seen or heard by people who have access to the {NAME OF REPOSITORY}
+If you agree to share personal data, especially photographs, video, or audio recordings with {NAME OF REPOSITORY}, images and/or sounds of you (your child) or other people in the recordings may be seen or heard by people who have access to the {NAME OF REPOSITORY}.
 First and/or last names of you, (your child), or other people may be spoken aloud. 
 If the study takes place in your home, aspects of your home may be seen or heard, or things you said may be recorded. 
 In addition, other information may have been collected about you, your child, or your family in conjunction with this session and shared in {NAME OF REPOSITORY} along with any photographs, video, or audio recordings.
