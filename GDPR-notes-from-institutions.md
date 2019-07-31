@@ -35,14 +35,14 @@ I would require the term “and renders harmless” to be removed from the contr
 
 2. We usually require a two way indemnity and in any event that indemnity is usually capped (below is the language we use)
 
-  A. The aggregate liability of each Party in connection with this Agreement or the subject matter hereof (whether arising in contract, tort (including negligence) or otherwise) shall be limited to ten thousand pounds sterling (£10,000).  
+  - X1. The aggregate liability of each Party in connection with this Agreement or the subject matter hereof (whether arising in contract, tort (including negligence) or otherwise) shall be limited to ten thousand pounds sterling (£10,000).  
 
-  B. Subject to clause X3 neither Party shall be liable to the other Party for any indirect, consequential or special damages or losses, or any loss of profits, loss of revenue (other than revenue due under this Agreement or any other agreement entered into between the Parties) which   arises directly or indirectly from that Party’s breach or non-performance of this Agreement, or negligence in the performance of this Agreement or from any liability arising in any other way out of the subject matter of this Agreement even if the Party bringing the claim has advised the other Party of the possibility of those losses arising, or if such losses were within the contemplation of the Parties.  
+  - X2. Subject to clause X3 neither Party shall be liable to the other Party for any indirect, consequential or special damages or losses, or any loss of profits, loss of revenue (other than revenue due under this Agreement or any other agreement entered into between the Parties) which   arises directly or indirectly from that Party’s breach or non-performance of this Agreement, or negligence in the performance of this Agreement or from any liability arising in any other way out of the subject matter of this Agreement even if the Party bringing the claim has advised the other Party of the possibility of those losses arising, or if such losses were within the contemplation of the Parties.  
 
-  C. Nothing in this Agreement limits or excludes either Party’s liability for:  
-    X3.1 death or personal injury caused by negligence; or
-    X3.2 fraud or for any other type of liability that, by law, cannot be limited or excluded.  
-    X3.3 Breach of relevant data protection legislation  
+  - X3. Nothing in this Agreement limits or excludes either Party’s liability for:  
+      - X3.1 death or personal injury caused by negligence; or
+      - X3.2 fraud or for any other type of liability that, by law, cannot be limited or excluded.  
+      - X3.3 Breach of relevant data protection legislation  
 
 3. Photographs are definitely personal data, so we would need reassurance that the data we are receiving the data is GDPR-compliant. ( general Data Protection Regulation) , There doesn’t appear to be any confirmations in here about the legal basis or authority for sharing the images. Do you  provide any information or have a policy about GDPR compliance when providing images to users in Europe?
 
