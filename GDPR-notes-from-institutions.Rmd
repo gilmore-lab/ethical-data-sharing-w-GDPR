@@ -10,8 +10,6 @@ In summary, I don’t think that there is any bar to us signing this agreement i
 
 
 
-As you may be aware the EU General Data Protection Regulation (GDPR) is soon to come into force to attach stricter controls onto the distribution of personal data that originates within the EU. As it is our understanding that personal data will be contained in the recordings Catherine is proposing to upload to Databrary, we are now in a position where we need to ensure that such does not infringe GDPR.
-
 Under GDPR we cannot agree to accept the HIPAA code of conduct in relation to the work we are proposing to make available unless Databrary (possibly under HIPAA obligations) is compliant with the ‘Privacy Shield’ level of operation – if so then we may be able to transfer the recording’s subject to any further use of those recordings being compliant with the Privacy Shield Framework. This would mean that any organisation/body wishing to access the recording’s from thereon would also have to agree that they operate and are wholly compliant with the Privacy Shield Framework. See: https://www.privacyshield.gov/welcome
 
 If any body was not compliant then we would need to ask them to sign the attached GDPR standard terms, unequivocally.
