@@ -35,11 +35,11 @@ I would require the term “and renders harmless” to be removed from the contr
 
 2. We usually require a two way indemnity and in any event that indemnity is usually capped (below is the language we use)
 
-  X1. The aggregate liability of each Party in connection with this Agreement or the subject matter hereof (whether arising in contract, tort (including negligence) or otherwise) shall be limited to ten thousand pounds sterling (£10,000).  
+  A. The aggregate liability of each Party in connection with this Agreement or the subject matter hereof (whether arising in contract, tort (including negligence) or otherwise) shall be limited to ten thousand pounds sterling (£10,000).  
 
-  X2. Subject to clause X3 neither Party shall be liable to the other Party for any indirect, consequential or special damages or losses, or any loss of profits, loss of revenue (other than revenue due under this Agreement or any other agreement entered into between the Parties) which   arises directly or indirectly from that Party’s breach or non-performance of this Agreement, or negligence in the performance of this Agreement or from any liability arising in any other way out of the subject matter of this Agreement even if the Party bringing the claim has advised the other Party of the possibility of those losses arising, or if such losses were within the contemplation of the Parties.  
+  B. Subject to clause X3 neither Party shall be liable to the other Party for any indirect, consequential or special damages or losses, or any loss of profits, loss of revenue (other than revenue due under this Agreement or any other agreement entered into between the Parties) which   arises directly or indirectly from that Party’s breach or non-performance of this Agreement, or negligence in the performance of this Agreement or from any liability arising in any other way out of the subject matter of this Agreement even if the Party bringing the claim has advised the other Party of the possibility of those losses arising, or if such losses were within the contemplation of the Parties.  
 
-  X3. Nothing in this Agreement limits or excludes either Party’s liability for:  
+  C. Nothing in this Agreement limits or excludes either Party’s liability for:  
     X3.1 death or personal injury caused by negligence; or
     X3.2 fraud or for any other type of liability that, by law, cannot be limited or excluded.  
     X3.3 Breach of relevant data protection legislation  
