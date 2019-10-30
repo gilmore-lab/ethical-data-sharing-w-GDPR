@@ -1,3 +1,16 @@
+---
+title: "GDPR notes from Institutions"
+author: "Andrea Seisler"
+date: "`r Sys.time()`"
+output:
+  github_document: default
+  html_document:
+    self-contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 ## Questions and Concerns from EU Institutions regarding GDPR
 
 ### University of Manchester
