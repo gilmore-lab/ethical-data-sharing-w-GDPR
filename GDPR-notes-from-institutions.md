@@ -1,7 +1,7 @@
 GDPR notes from Institutions
 ================
 Andrea Seisler
-2019-10-30 07:47:03
+2019-10-30 07:48:24
 
 ## Questions and Concerns from EU Institutions regarding GDPR
 
