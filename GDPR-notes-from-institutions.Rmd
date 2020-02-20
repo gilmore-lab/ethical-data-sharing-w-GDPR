@@ -13,6 +13,35 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## Questions and Concerns from EU Institutions regarding GDPR
 
+### Queen's University Belfast  
+
+In order for this to be compliant with our obligations under GDPR the explicit consent of the data subject will be required.  We do not normally rely on consent, but to enable the international restricted transfer of data as Databrary is based in the US and not covered by Privacy Shield. 
+
+
+Consent is defined in Article 4(11) GDPR as:
+
+“any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her”.
+
+Article 7 also sets out further ‘conditions’ for consent, with specific provisions on:
+
+- keeping records to demonstrate consent;
+- prominence and clarity of consent requests;
+- the right to withdraw consent easily and at any time; and
+- freely given consent if a contract is conditional on consent.
+ 
+In relation to the restricted transfer the data subject would need to be give precise details about the transfer and the possible risks of making a transfer to a country that does not have provide adequate protection for personal data and without any other appropriate safeguards in place i.e. if Databrary were to sign up to the Standard Contractual Clauses.  
+
+ 
+
+My main concern would be how to manage consent?  How can personal data be removed?  Who will be responsible for this? 
+
+ 
+
+If Jocelyn is purely accessing information and not uploading I see no issue.
+
+[Standard contractual clauses for data transfers between EU and non-EU  countries](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)
+
+
 ### University of Manchester
 
 I do not, obviously, know anything about the research project involved or about the nature and extent of the data being collected, but these measures would usually be along the lines of:
